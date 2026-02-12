@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="/W_Suborbital.png">
+  <img src="/images/W_Suborbital.jpg">
 </div>
 
 # Suborbital
